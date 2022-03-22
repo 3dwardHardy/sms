@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* com.red.SMS
+web: java -cp target/classes/;target/dependency/* com.red.SmsApplication
