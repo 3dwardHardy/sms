@@ -1,1 +1,1 @@
-web: java -cp target/classes/;target/classes/com/red/SmsApplication.class
+web: java -jar target/SMS-0.0.1-SNAPSHOT.jar
