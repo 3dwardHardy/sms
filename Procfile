@@ -1,1 +1,1 @@
-web: java -cp target/classes/;target/dependency/* com.red.SmsApplication
+web: java -cp target/classes/;target/classes/*com/red/SMS
