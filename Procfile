@@ -1,1 +1,1 @@
-web: java -cp target/classes/;target/classes/*com/red/SMS
+web: java -cp target/classes/;target/classes/*com/red/SmsApplication
