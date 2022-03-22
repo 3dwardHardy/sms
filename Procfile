@@ -1,1 +1,1 @@
-web: java $JAVA-OPTS -cp target/classes:target/ dependency/* SmsApplication
+web: java -jar target/SMS-0.0.1-SNAPSHOT.jar
